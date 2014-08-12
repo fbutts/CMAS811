@@ -1,0 +1,5 @@
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache

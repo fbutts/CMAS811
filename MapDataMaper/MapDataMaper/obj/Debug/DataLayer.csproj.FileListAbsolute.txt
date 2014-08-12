@@ -1,0 +1,5 @@
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.dll
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.pdb
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.dll
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.pdb
+C:\Users\FrederickCButts\Desktop\Capstone\CMAS EXE\CMAS\MapDataMaper\MapDataMaper\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
